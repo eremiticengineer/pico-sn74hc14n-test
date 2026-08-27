@@ -7,7 +7,7 @@ This is a simple project to run a very simple FreeRTOS app on the pico that uses
 Clone the project with FreeRTOS submodules to get the pico functionality:
 
 ```
-git clone --recurse-submodules <your-repo-url>
+git clone --recurse-submodules https://github.com/eremiticengineer/pico-sn74hc14n-test
 ```
 
 If you cloned without recursing submodules:
