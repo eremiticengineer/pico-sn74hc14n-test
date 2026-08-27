@@ -1,4 +1,4 @@
-# FreeRTOS Test
+# Pico SN74HC14N Test
 
 This is a simple project to run a very simple FreeRTOS app on the pico that uses an interrupt with an SN74HC14N.
 
